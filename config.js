@@ -105,12 +105,12 @@ module.exports = {
 
 
 // Ignore them 👇🏻
-global.botname = process.env.BotName || "Queen Anya" 
+global.botname = process.env.BotName || "Qᴜᴇᴇɴ ᴀɴʏᴀ" 
 global.author = process.env.Author || "@PikaBotz" 
-global.packname = process.env.PackName || "Queen Anya v2 MD" 
+global.packname = process.env.PackName || "ʙʀᴏᴋᴇɴ_ʜᴇᴀʀᴛ_._.x" 
 global.myweb = process.env.Web || "https://github.com/PikaBotz" 
-global.footer = process.env.Footer || "© Queen Anya Bot" 
-global.prefa = process.env.Prefix || ['-'] 
+global.footer = process.env.Footer || "© ʙʀᴏᴋᴇɴ_ʜᴇᴀʀᴛ ᴏꜰᴄ" 
+global.prefa = process.env.Prefix || ['.'] 
 global.themeemoji = process.env.ThemeEmoji || "🎐" 
 global.ownername = process.env.Owner_Name || "Pika~Kun" 
 global.ownernumber = process.env.Owner_Number || "916900904828" 
