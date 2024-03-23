@@ -8,15 +8,15 @@ global.zApiKey = {// if this API key get expired then please go to https://www.f
 }
 
 
-global.botname = process.env.BotName || "Queen Anya" 
+global.botname = process.env.BotName || "ᴄʏʙᴇʀ ᴢᴇᴜꜱ" 
 global.author = process.env.Author || "@PikaBotz" 
-global.packname = process.env.PackName || "Queen Anya v2 MD" 
+global.packname = process.env.PackName || "ᴄʏʙᴇʀ ᴢᴇᴜꜱ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ" 
 global.myweb = process.env.Web || "https://github.com/PikaBotz" 
-global.footer = process.env.Footer || "© Queen Anya Bot" 
-global.prefa = process.env.Prefix || ['-'] 
+global.footer = process.env.Footer || "© ᴄʏʙᴇʀ ᴢᴇᴜꜱ ᴍᴅ" 
+global.prefa = process.env.Prefix || ['.'] 
 global.themeemoji = process.env.ThemeEmoji || "🎐" 
-global.ownername = process.env.Owner_Name || "Pika~Kun" 
-global.ownernumber = process.env.Owner_Number || "916900904828" 
+global.ownername = process.env.Owner_Name || "ᴄʏʙᴇʀ ᴢᴇᴜꜱ ʙᴏᴛ ᴏᴡɴᴇʀ" 
+global.ownernumber = process.env.Owner_Number || "94786587476" 
 global.adress = process.env.Continent || "Asia, India, Assam" 
 global.timezone = process.env.TimeZone || "Asia/Kolkata" 
 global.instagramId = process.env.Insta || "8.08_only_mine" 
@@ -92,7 +92,7 @@ global.message = {
     owner: "*👑 O𝚆𝙽𝙴𝚁 N𝙴𝙴𝙴𝙳𝙴𝙳!*\n\n- Bruh, this command is only made for this bot's owner. So you can't use this command.",
     group: "*👥 G𝚛𝚘𝚞𝚙 N𝚎𝚎𝚍𝚎𝚍!*\n\n- This command can only be executed in a group chat.",
     private: 'This command is only for private chats.',
-    wait: '🔄 Processing request...',
+    wait: "♻ ᴘʀᴏᴄᴇꜱꜱɪɴɢ ʀᴇǫᴜᴇꜱᴛ.. ",
     link: 'I need a link to process this command.',
     error: "❌ Oops! An error occurred while processing your request. Please try again later.",
     ban: `You're banned from using this bot!`,
@@ -101,15 +101,15 @@ global.message = {
 },
 
 module.exports = {
-  botname: process.env.BotName || "Queen Anya", 
+  botname: process.env.BotName || "ᴄʏʙᴇʀ ᴢᴇᴜꜱ", 
   author: process.env.Author || "@PikaBotz",
-  packname: process.env.PackName || "Queen Anya v2 MD",
+  packname: process.env.PackName || "ᴄʏʙᴇʀ ᴢᴇᴜꜱ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ",
   myweb: process.env.Web || "https://github.com/PikaBotz",
-  footer: process.env.Footer || "© Queen Anya Bot",
-  prefa: process.env.Prefix || ['-'],
+  footer: process.env.Footer || "© ᴄʏʙᴇʀ ᴢᴇᴜꜱ ᴍᴅ",
+  prefa: process.env.Prefix || ['.'],
   themeemoji: process.env.ThemeEmoji || "🎐",
-  ownername: process.env.Owner_Name || "Pika~Kun",
-  ownernumber: process.env.Owner_Number || "916900904828",
+  ownername: process.env.Owner_Name || "ᴄʏʙᴇʀ ᴢᴇᴜꜱ ʙᴏᴛ ᴏᴡɴᴇʀ",
+  ownernumber: process.env.Owner_Number || "94786587476",
   adress: process.env.Continent || "Asia, India, Assam",
   timezone: process.env.TimeZone || "Asia/Kolkata", 
   instagramId: process.env.Insta || "8.08_only_mine",
